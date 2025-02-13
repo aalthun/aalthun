@@ -3,7 +3,7 @@
 **🛠️ Skills**<br>
 I have a basic to intermediate understanding of the following tools and technologies:<br>
 -Programming Languages: Python, Java, SQL<br>
--Tools & Frameworks: TensorFlow, PyTorch, Keras, NumPy, Pandas, Matplotlib<br>
+-Tools & Frameworks: TensorFlow, PyTorch, Keras, NumPy, Pandas, Matplotlib, Spring Boot<br>
 -Databases: PostgreSQL
 
 **🔭 Currently working on:**<br>
