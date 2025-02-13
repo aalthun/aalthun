@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I’m aalthun!<br>
 
-<!--
-**aalthun/aalthun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🛠️ Skills**<br>
+I have a basic to intermediate understanding of the following tools and technologies:<br>
+-Programming Languages: Python, Java, SQL<br>
+-Tools & Frameworks: TensorFlow, PyTorch, Keras, NumPy, Pandas, Matplotlib<br>
+-Databases: PostgreSQL
 
-Here are some ideas to get you started:
+**🔭 Currently working on:**<br>
+As a recent graduate, I’m working on building basic deep Learning projects with TensorFlow and PyTorch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🌱 Learning:**<br>
+I have a foundation in TensorFlow and am now expanding my knowledge of PyTorch.
+
+**📫 How to reach me:**<br>
+You can reach out to me on [LinkedIn](https://www.linkedin.com/).
