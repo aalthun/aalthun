@@ -7,7 +7,7 @@ I have a basic to intermediate understanding of the following tools and technolo
 -Databases: PostgreSQL
 
 **🔭 Currently working on:**<br>
-As a recent graduate, I’m working on building basic deep Learning projects with TensorFlow and PyTorch.
+As a recent graduate, I’m working on building basic deep Learning projects with PyTorch.
 
 **🌱 Learning:**<br>
 I have a foundation in TensorFlow and am now expanding my knowledge of PyTorch.
