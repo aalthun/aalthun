@@ -1,16 +1,12 @@
-👋 Hi, I’m aalthun!<br>
+Machine Learning Engineer passionate about building modern AI systems from first principles.
+My work focuses on transformer architectures, large language models, multimodal learning, and efficient model training. I enjoy reproducing research papers, implementing architectures from scratch and exploring scalable training techniques.
 
-**🛠️ Skills**<br>
-I have a basic to intermediate understanding of the following tools and technologies:<br>
--Programming Languages: Python, SQL<br>
--Tools & Frameworks: PyTorch, NumPy, Pandas, Matplotlib<br>
--Databases: PostgreSQL
+Current interests include:
 
-**🔭 Currently working on:**<br>
-As a recent graduate, I’m working on building basic deep Learning projects with PyTorch.
-
-**🌱 Learning:**<br>
-I have a foundation in TensorFlow and am now expanding my knowledge of PyTorch.
-
-**📫 How to reach me:**<br>
-You can reach out to me on [LinkedIn](https://www.linkedin.com/).
+LLM pretraining
+Vision-Language Models
+Multimodal Learning
+Efficient Attention Mechanisms
+Retrieval-Augmented Generation
+Distributed Training with PyTorch
+Most repositories include clean implementations, training pipelines, and experiments designed for learning, reproducibility and research.
